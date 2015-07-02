@@ -8,4 +8,4 @@ This R code attempts to obtain scrape the first 10 google results for a key word
     library(maps)
     library(sp)
     require(rworldmap)
-    require(devtools)
+  
