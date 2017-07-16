@@ -1,4 +1,4 @@
-scrape.native <- function (x,keyword=" native ") {
+scrape_native <- function (x,keyword=" native ") {
     # x is a vector of lower case species names with out sup species and stuff
     
     # only scrapes http site not https, thats usually why there are warnings
